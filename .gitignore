@@ -1,0 +1,19 @@
+# Rapports HTML generes par Export-EntraAgentIdentityReport
+*.html
+
+# Sorties et journaux
+*.log
+output/
+
+# Artefacts de packaging PowerShell
+*.nupkg
+bin/
+obj/
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db
+
+# Editeurs
+.vscode/
+*.ps1xml.bak
